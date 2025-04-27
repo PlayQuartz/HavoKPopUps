@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.640e85ed.css",
+    "main.js": "/static/js/main.99b6a019.js",
+    "static/media/PrestigeFRv2.png": "/static/media/PrestigeFRv2.915b65c7582f721230c3.png",
+    "static/media/PrestigeFRv1.png": "/static/media/PrestigeFRv1.7c6c5022693a3665dd2b.png",
+    "static/media/BasicsBeigeFR.png": "/static/media/BasicsBeigeFR.427b75d3961f888f826c.png",
+    "static/media/BasicsNoirFR.png": "/static/media/BasicsNoirFR.336adc2103648011fd7d.png",
+    "static/media/GourdeFR.png": "/static/media/GourdeFR.d0dc09f7f182d1e02b68.png",
+    "index.html": "/index.html",
+    "main.640e85ed.css.map": "/static/css/main.640e85ed.css.map",
+    "main.99b6a019.js.map": "/static/js/main.99b6a019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.640e85ed.css",
+    "static/js/main.99b6a019.js"
+  ]
+}
