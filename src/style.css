@@ -1,0 +1,34 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.map-page {
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  position: relative; /* Required for `absolute` positioning of advert-box */
+}
+.map-page .advert-box {
+  position: absolute;
+  overflow: hidden;
+  right: -350px; /* Initially hidden */
+  width: 300px;
+  top: 370px;
+  opacity: 1;
+  transition: all 1s ease-in-out; /* Smooth transition for position and opacity */
+}
+.map-page .twitch-prediction {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
